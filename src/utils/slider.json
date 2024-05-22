@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sunset Villa",
+    "price": "470,043",
+    "detail": "1234 Sunset Blvd, Beverly Hills, CA",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maplewood Estate",
+    "price": "666,353",
+    "detail": "789 Maple St, Springfield, IL",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Riverside Manor",
+    "price": "355,853",
+    "detail": "456 River Rd, Greenville, SC",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Oceanview Retreat",
+    "price": "540,000",
+    "detail": "321 Ocean Dr, Miami Beach, FL",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Mountainview Lodge",
+    "price": "710,000",
+    "detail": "654 Mountain Rd, Aspen, CO",
+    "image": "./r5.png"
+  },
+  {
+    "name": "Lakeside Cottage",
+    "price": "380,000",
+    "detail": "987 Lakeview Dr, Lake Tahoe, NV",
+    "image": "./r6.png"
+  }
+]
